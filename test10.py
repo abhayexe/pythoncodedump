@@ -1,0 +1,9 @@
+a=str("415")
+print(a)
+b="561"
+c=a+b
+print(c)
+a1=int(a)
+b1=int(b)
+c1=a1+b1
+print(c1)
